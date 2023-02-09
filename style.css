@@ -43,26 +43,16 @@ p {
 }
 .new-card {
   width: 70%;
-  margin-left: 13%;
-  margin-right: 10%;
-  margin-bottom: 10%;
-  padding-left: 5%;
-  padding-top: 2%;
-  padding-bottom: 3%;
+  margin-left: 15%;
 }
 .new-card div img {
   width: 100px;
-  padding: 40px;
-}
-.highlight {
-  border: 1px solid #ff5959;
-  background-color: #f08f8fbd;
-  color: #ff5959;
+  padding: 100px;
 }
 .discription {
   color: black;
 }
-.about-us {
+.call-us {
   background-image: url(images/watch.png);
   background-position: center;
   background-size: 70% 60%;
@@ -75,44 +65,17 @@ p {
 .flexible {
   display: flex;
 }
-.one-third-width {
-  width: 35%;
-  padding: 5%;
-}
-.one-third-width img {
-  width: 100%;
-}
-.cards {
-  width: 50%;
-  padding: 20px;
-  border-radius: 5px;
-  margin: 10px;
-}
-.card-1 {
-  background-color: #4f9da62c;
-}
-.card-2 {
-  background-color: #ff595957;
-}
-.card-3 {
-  background-color: #fff4d663;
-}
 .points {
   font-size: 20px;
 }
 .email-input {
   padding-left: 150px;
   padding-right: 150px;
-  padding-top: 6px;
-  padding-bottom: 6px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 5px;
 }
 .footer {
   background-color: black;
   padding: 4%;
-}
-.orange-color {
-  color: orange;
-}
-.gry-color {
-  color: gray;
 }

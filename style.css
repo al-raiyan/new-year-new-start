@@ -1,0 +1,118 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 45px;
+  color: white;
+}
+h2 {
+  font-size: 30px;
+}
+p {
+  color: white;
+}
+.header {
+  position: relative;
+  text-align: right;
+  color: black;
+}
+.text-align {
+  text-align: center;
+}
+.header div img {
+  height: 100%;
+  width: 100%;
+}
+.top-right {
+  position: absolute;
+  top: 100px;
+  left: 700px;
+  padding-right: 40px;
+}
+.half-width {
+  width: 50%;
+  padding: 5%;
+}
+.link-button {
+  text-decoration: none;
+  color: #005fac;
+  background-color: white;
+  padding: 15px 30px;
+  border-radius: 5px;
+  font-weight: 600;
+}
+.new-card {
+  width: 70%;
+  margin-left: 13%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+  padding-left: 5%;
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
+.new-card div img {
+  width: 100px;
+  padding: 40px;
+}
+.highlight {
+  border: 1px solid #ff5959;
+  background-color: #f08f8fbd;
+  color: #ff5959;
+}
+.discription {
+  color: black;
+}
+.about-us {
+  background-image: url(images/watch.png);
+  background-position: center;
+  background-size: 70% 60%;
+  background-repeat: no-repeat;
+}
+.gradient {
+  padding-top: 7px;
+  padding-left: 190px;
+}
+.flexible {
+  display: flex;
+}
+.one-third-width {
+  width: 35%;
+  padding: 5%;
+}
+.one-third-width img {
+  width: 100%;
+}
+.cards {
+  width: 50%;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.card-1 {
+  background-color: #4f9da62c;
+}
+.card-2 {
+  background-color: #ff595957;
+}
+.card-3 {
+  background-color: #fff4d663;
+}
+.points {
+  font-size: 20px;
+}
+.email-input {
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+.footer {
+  background-color: black;
+  padding: 4%;
+}
+.orange-color {
+  color: orange;
+}
+.gry-color {
+  color: gray;
+}
